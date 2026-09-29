@@ -1,0 +1,8 @@
+{
+  "name": "Remix Macro Sector Stress Tester",
+  "description": "Institutional tool to stress-test equity sectors against macroeconomic shocks and generate data-driven sector rotation investment theses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
